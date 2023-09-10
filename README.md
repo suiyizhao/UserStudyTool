@@ -1,7 +1,7 @@
-<div align=center><img src="./tutorials-imgs/logo/logo.png#pic_center" width="200"></div>
-
 # UserStudyTool
 This is a handy tool for user study. With this tool, you can simultaneously view and rate a group of images, and the rating results can be saved to a .xls table.
+
+<div align=center><img src="./tutorials-imgs/logo/logo.png#pic_center" width="200"></div>
 
 ## Version
 **Latest version (v1.0.0)：** [[View]](https://github.com/suiyizhao/UserStudyTool/releases/tag/v1.0.0) [[Download]](https://github.com/suiyizhao/UserStudyTool/releases/download/v1.0.0/USTool.exe)
