@@ -17,7 +17,7 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 
 *The format of the folder should meet the following：*
 
-<div align=center><img src="./tutorials-imgs/basic-usage/step2-folder-format.png#pic_center" width="250">
+![avatar](./tutorials-imgs/basic-usage/step2-folder-format.png)
 
 3. **Click the "Like" button below the image to vote**
 
