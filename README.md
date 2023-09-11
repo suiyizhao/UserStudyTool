@@ -15,9 +15,9 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 
 ![avatar](./tutorials-imgs/basic-usage/step2.png)
 
-*The folder of the folder should meet the following：*
+*The format of the folder should meet the following：*
 
-![avatar](./tutorials-imgs/basic-usage/step2-folder-format.png)
+<div align=center><img src="./tutorials-imgs/basic-usage/step2-folder-format.png#pic_center" width="250">
 
 3. **Click the "Like" button below the image to vote**
 
