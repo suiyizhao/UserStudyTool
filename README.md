@@ -31,6 +31,15 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 
 ![avatar](./tutorials-imgs/basic-usage/step5.png)
 
+## Detailed description for tool bar
+
+| Component     | Description                                                | Range                                                   | Note                                |
+| :---          |              :----:                                        |     :----:                                              |    :----:                           |
+| Open Folder   | Open a folder to be displayed                              | N/A                                                     | None                                |
+| Column        | Decide how many columns to display the opened images       | Min:1; Max:Number of sub-folders of the opened folder   | None                                |
+| Row           | Decide how many rows to display the opened images          | Min:1; Max:Number of sub-folders of the opened folder   | Automatically set based on column   |
+| Row           | Decide what size to display the opened images              | Min:1; Max:Number of sub-folders of the opened folder   | Automatically set based on column   |
+
 ## Cite
 If you find this repository helpful in your research, please cite the following BibTex item:
 ```
