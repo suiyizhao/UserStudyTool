@@ -7,22 +7,26 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 **Latest version (v1.0.0)：** [[View]](https://github.com/suiyizhao/UserStudyTool/releases/tag/v1.0.0) [[Download]](https://github.com/suiyizhao/UserStudyTool/releases/download/v1.0.0/USTool.exe)
 
 ## Basic Usage
-1. Open the software
+1. **Open the software**
 
 ![avatar](./tutorials-imgs/basic-usage/step1.png)
 
-2. File -> New Task: Open a folder to be displayed
+2. **File -> New Task: Open a folder to be displayed**
 
 ![avatar](./tutorials-imgs/basic-usage/step2.png)
 
-3. Click the "Like" button below the image to vote
+*The folder of the folder should meet the following：*
+
+![avatar](./tutorials-imgs/basic-usage/step2-folder-format.png)
+
+3. **Click the "Like" button below the image to vote**
 
 ![avatar](./tutorials-imgs/basic-usage/step3.png)
 
-4. Continue until each group of images has been rated
+4. **Continue until each group of images has been rated**
 
 ![avatar](./tutorials-imgs/basic-usage/step4.png)
 
-5. Export the rating result to a .xls table
+5. **Export the rating result to a .xls table**
 
 ![avatar](./tutorials-imgs/basic-usage/step5.png)
