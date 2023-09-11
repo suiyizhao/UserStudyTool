@@ -36,8 +36,8 @@ If you find this repository helpful in your research, please cite the following 
 ```
 @software{USTool,
   author  = {Suiyi Zhao},
-  title   = {USTool: A handy tool for user study}},
-  url     = {https://github.com/suiyizhao/UserStudyTool}
+  title   = {USTool: A handy tool for user study},
+  url     = {https://github.com/suiyizhao/UserStudyTool},
   year    = {2023}
 }
 ```
