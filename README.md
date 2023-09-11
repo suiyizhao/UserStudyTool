@@ -30,3 +30,12 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 5. **Export the rating result to a .xls table**
 
 ![avatar](./tutorials-imgs/basic-usage/step5.png)
+
+## Cite
+If you find this repository helpful in your research, please cite the following BibTex item:
+@software{USTool,
+  author  = {Suiyi Zhao},
+  title   = {USTool: A handy tool for user study}},
+  url     = {https://github.com/suiyizhao/UserStudyTool}
+  year    = {2023}
+}
