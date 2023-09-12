@@ -9,27 +9,27 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 ## Basic Usage
 1. **Open the software**
 
-<img src="./tutorials-imgs/basic-usage/step1.png"  width="200" />
+<img src="./tutorials-imgs/basic-usage/step1.png"  width="500" />
 
 2. **File -> New Task: Open a folder to be displayed**
 
-![step2](./tutorials-imgs/basic-usage/step2.png)
+<img src="./tutorials-imgs/basic-usage/step2.png"  width="500" />
 
 *The format of the folder should meet the following：*
 
-![step2-folder-format](./tutorials-imgs/basic-usage/step2-folder-format.png)
+<img src="./tutorials-imgs/basic-usage/step2-folder-format.png"  width="500" />
 
 3. **Click the "Like" button below the image to vote**
 
-![step3](./tutorials-imgs/basic-usage/step3.png)
+<img src="./tutorials-imgs/basic-usage/step3.png"  width="500" />
 
 4. **Continue until each group of images has been rated**
 
-![step4](./tutorials-imgs/basic-usage/step4.png)
+<img src="./tutorials-imgs/basic-usage/step4.png"  width="500" />
 
 5. **Export the rating result to a .xls table**
 
-![step5](./tutorials-imgs/basic-usage/step5.png)
+<img src="./tutorials-imgs/basic-usage/step5.png"  width="500" />
 
 ## Detailed description for tool bar (from left to right)
 
