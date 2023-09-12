@@ -33,17 +33,21 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 
 ## Detailed description for tool bar (from left to right)
 
-| Component         | Description                                        | Range                              | Note                                    |
-| :---              |              :----:                                |     :----:                         |    :----:                               |
-| Open Folder       | Open a folder to be displayed                      | N/A                                | None                                    |
-| Column            | Decide how many columns to display                 | Min:1; Max:Number of sub-folders   | None                                    |
-| Row               | Decide how many rows to display                    | Min:1; Max:Number of sub-folders   | Automatically set based on column       |
-| Scale             | Decide what size to display                        | Min:0.1; Max:10                    | Format: **width-scale,height-scale**, e.g., **0.5,0.8**; **2,2**  |
-| Previous unrated  | Jump to previous unrated image                     | N/A                                | None                                    |
-| Previous          | Jump to previous image (whether rated or unrated)  | N/A                                | None                                    |
-| Next              | Jump to next image (whether rated or unrated)      | N/A                                | None                                    |
-| Next unrated      | Jump to next unrated image                         | N/A                                | None                                    |
-| Next unrated      | Jump to next unrated image                         | N/A                                | None                                    |
+| Component         | Description                                                                     | Range                              | Note                                                     |
+| :---              |              :----:                                                             |     :----:                         |    :----:                                                |
+| Open Folder       | Open a folder to be displayed                                                   | N/A                                | None                                                     |
+| Column            | Determine how many columns to display                                           | Min:1; Max:Number of sub-folders   | None                                                     |
+| Row               | Determine how many rows to display                                              | Min:1; Max:Number of sub-folders   | Automatically set based on column                        |
+| Scale             | Determine what size to display                                                  | Min:0.1; Max:10                    | Format: **width-scale,height-scale**, e.g., **0.5,1.5**  |
+| Previous unrated  | Jump to previous unrated image                                                  | N/A                                | None                                                     |
+| Previous          | Jump to previous image (whether rated or unrated)                               | N/A                                | None                                                     |
+| Next              | Jump to next image (whether rated or unrated)                                   | N/A                                | None                                                     |
+| Next unrated      | Jump to next unrated image                                                      | N/A                                | None                                                     |
+| Serial/Scrollbar  | Jump to the image specified by the serial/scrollbar                             | Min:1; Max:Number of images        | None                                                     |
+| Cancel like       | Cancel the clicked "Like"                                                       | N/A                                | None                                                     |
+| Auto next         | Determine whether to automatically display the next one after clicking "Like"   | N/A                                | None                                                     |
+| Save              | Save a task                                                                     | N/A                                | None                                                     |
+| Export            | Export the final result as a .xls table                                         | N/A                                | None                                                     |
 
 ## Cite
 If you find this repository helpful in your research, please cite the following BibTex item:
