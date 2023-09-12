@@ -27,7 +27,7 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 
 ![step4](./tutorials-imgs/basic-usage/step4.png)
 
-5. **Export the rating result to a .xls table**
+5. **Export the rating result as a .xls table**
 
 ![step5](./tutorials-imgs/basic-usage/step5.png)
 
@@ -38,7 +38,7 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 | Open Folder       | Open a folder to be displayed                                                   | N/A                                | None                                                     |
 | Column            | Determine how many columns to display                                           | Min:1; Max:Number of sub-folders   | None                                                     |
 | Row               | Determine how many rows to display                                              | Min:1; Max:Number of sub-folders   | Automatically set based on column                        |
-| Scale             | Determine what size to display                                                  | Min:0.1; Max:10                    | Format: **width-scale,height-scale**, e.g., **0.5,1.5**  |
+| Scale             | Determine what size to display                                                  | Min:0.1; Max:10                    | Format: width-scale,height-scale, e.g., 0.5,1.5          |
 | Previous unrated  | Jump to previous unrated image                                                  | N/A                                | None                                                     |
 | Previous          | Jump to previous image (whether rated or unrated)                               | N/A                                | None                                                     |
 | Next              | Jump to next image (whether rated or unrated)                                   | N/A                                | None                                                     |
@@ -48,6 +48,13 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 | Auto next         | Determine whether to automatically display the next one after clicking "Like"   | N/A                                | None                                                     |
 | Save              | Save a task                                                                     | N/A                                | None                                                     |
 | Export            | Export the final result as a .xls table                                         | N/A                                | None                                                     |
+
+## Ideas or bugs
+If you 
+  **have any ideas to help improve the software** 
+or
+  **find any bugs**.
+Please give us feedback in ISSUE!
 
 ## Cite
 If you find this repository helpful in your research, please cite the following BibTex item:
