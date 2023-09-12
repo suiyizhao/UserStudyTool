@@ -50,11 +50,9 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 | Export            | Export the final result as a .xls table                                         | N/A                                | None                                                     |
 
 ## Ideas or bugs
-If you 
-  **have any ideas to help improve the software** 
-or
-  **find any bugs**.
-Please give us feedback in ISSUE!
+If you **have any ideas to help improve the software** or **find any bugs**.
+
+Please give us feedback in ISSUES!
 
 ## Cite
 If you find this repository helpful in your research, please cite the following BibTex item:
