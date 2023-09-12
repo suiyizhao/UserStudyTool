@@ -9,7 +9,7 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 ## Basic Usage
 1. **Open the software**
 
-![step1](./tutorials-imgs/basic-usage/step1.png)
+<img src="./tutorials-imgs/basic-usage/step1.png"  width="200" />
 
 2. **File -> New Task: Open a folder to be displayed**
 
