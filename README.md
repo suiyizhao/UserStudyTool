@@ -13,7 +13,7 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 
 2. **File -> New Task: Open a folder to be displayed**
 
-<img src="./tutorials-imgs/basic-usage/step2.png"  width="7700" />
+<img src="./tutorials-imgs/basic-usage/step2.png"  width="700" />
 
 *The format of the folder should meet the following：*
 
