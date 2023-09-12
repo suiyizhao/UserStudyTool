@@ -1,5 +1,5 @@
 # UserStudyTool
-This is a handy tool for user study. With this tool, you can simultaneously view and rate a group of images, and the rating results can be saved to a .xls table.
+This is a handy tool for user study. With this tool, you can simultaneously view and rate a group of images, and the rating result can be saved to a .xls table.
 
 <div align=center><img src="./tutorials-imgs/logo/logo.png#pic_center" width="200"></div>
 
@@ -27,7 +27,7 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 
 ![step4](./tutorials-imgs/basic-usage/step4.png)
 
-5. **Export the rating result as a .xls table**
+5. **Export the rating result to a .xls table**
 
 ![step5](./tutorials-imgs/basic-usage/step5.png)
 
@@ -47,7 +47,7 @@ This is a handy tool for user study. With this tool, you can simultaneously view
 | Cancel like       | Cancel the clicked "Like"                                                       | N/A                                | None                                                     |
 | Auto next         | Determine whether to automatically display the next one after clicking "Like"   | N/A                                | None                                                     |
 | Save              | Save a task                                                                     | N/A                                | None                                                     |
-| Export            | Export the final result as a .xls table                                         | N/A                                | None                                                     |
+| Export            | Export the final result to a .xls table                                         | N/A                                | None                                                     |
 
 ## Ideas or bugs
 If you **have any ideas to help improve the software** or **find any bugs**.
